@@ -1,6 +1,8 @@
 Upgraded 3DCOM Framework
 # Unified Oscillatory Field Theory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17050694.svg)](https://doi.org/10.5281/zenodo.17050694)
+
 Author:
 Martin Doina
 Sept 4, 2025
